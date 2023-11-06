@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Admin-Dashboard-/static/css/main.91db948e.css",
+    "main.js": "/React-Admin-Dashboard-/static/js/main.1562cb95.js",
+    "static/media/remixicon.svg?t=1690730386070": "/React-Admin-Dashboard-/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/React-Admin-Dashboard-/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/React-Admin-Dashboard-/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/remixicon.woff?t=1690730386070": "/React-Admin-Dashboard-/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/React-Admin-Dashboard-/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/sell-car.png": "/React-Admin-Dashboard-/static/media/sell-car.97c3ce9640e6ca0a375a.png",
+    "static/media/car-01.png": "/React-Admin-Dashboard-/static/media/car-01.853892a453ff0f4cb988.png",
+    "static/media/car-05.png": "/React-Admin-Dashboard-/static/media/car-05.6381cf2bac4ffbec35e3.png",
+    "static/media/car-04.png": "/React-Admin-Dashboard-/static/media/car-04.2e4cd8463e585fcad69f.png",
+    "static/media/car-06.png": "/React-Admin-Dashboard-/static/media/car-06.487847d405ad076ea08d.png",
+    "static/media/car-02.png": "/React-Admin-Dashboard-/static/media/car-02.afc5836a441bc5fc59ec.png",
+    "static/media/car-03.png": "/React-Admin-Dashboard-/static/media/car-03.65682e78fe239b4a6992.png",
+    "static/media/mini-car-01.png": "/React-Admin-Dashboard-/static/media/mini-car-01.168a343d8c19289fbd29.png",
+    "static/media/mini-car-02.png": "/React-Admin-Dashboard-/static/media/mini-car-02.0a16e0de72a5b214775e.png",
+    "static/media/mini-car-03.png": "/React-Admin-Dashboard-/static/media/mini-car-03.9a9227fff3c5879458cd.png",
+    "index.html": "/React-Admin-Dashboard-/index.html",
+    "main.91db948e.css.map": "/React-Admin-Dashboard-/static/css/main.91db948e.css.map",
+    "main.1562cb95.js.map": "/React-Admin-Dashboard-/static/js/main.1562cb95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91db948e.css",
+    "static/js/main.1562cb95.js"
+  ]
+}
